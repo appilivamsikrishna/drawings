@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-18T19:58:38.817Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="9soEvVypVbDw6rDutjEk" version="24.7.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-07-18T20:19:03.985Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="7LFB5jZnPBohOBj8HhE8" version="24.7.1" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="954" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -414,13 +414,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="m-UORvbdAmYCQhqXQ-1n-1" value="is Graha &quot;X&quot;&amp;nbsp; - Own Star or Star Parivarthana ?&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="230" width="296" height="30" as="geometry" />
+          <mxGeometry x="40" y="225" width="296" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m-UORvbdAmYCQhqXQ-1n-2" value="is Graha &quot;B&quot; - Own Star ?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="270" width="296" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m-UORvbdAmYCQhqXQ-1n-3" value="is Graha &quot;A&quot; &#39;s&amp;nbsp; Star Lord in 1,2,11,10 or 5 ?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="310" width="296" height="30" as="geometry" />
+          <mxGeometry x="40" y="315" width="296" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m-UORvbdAmYCQhqXQ-1n-4" value="+ 1&amp;nbsp; ( No Retro Dhosh )" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="349.5" y="180" width="170" height="30" as="geometry" />
@@ -428,16 +428,10 @@
         <mxCell id="m-UORvbdAmYCQhqXQ-1n-5" value="- 1&amp;nbsp; ( Retro Dhosh )" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540.5" y="180" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="m-UORvbdAmYCQhqXQ-1n-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="358.75" y="360" width="156" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="m-UORvbdAmYCQhqXQ-1n-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540.5" y="360" width="156" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="m-UORvbdAmYCQhqXQ-1n-8" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=16;" vertex="1" parent="1">
+        <mxCell id="m-UORvbdAmYCQhqXQ-1n-8" value="60" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=16;" vertex="1" parent="1">
           <mxGeometry x="349.5" y="220" width="174.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="m-UORvbdAmYCQhqXQ-1n-9" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=16;" vertex="1" parent="1">
+        <mxCell id="m-UORvbdAmYCQhqXQ-1n-9" value="60" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=16;" vertex="1" parent="1">
           <mxGeometry x="531.25" y="220" width="174.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m-UORvbdAmYCQhqXQ-1n-10" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=16;" vertex="1" parent="1">
@@ -446,8 +440,41 @@
         <mxCell id="m-UORvbdAmYCQhqXQ-1n-11" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=16;" vertex="1" parent="1">
           <mxGeometry x="531.25" y="265" width="174.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="m-UORvbdAmYCQhqXQ-1n-12" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=16;" vertex="1" parent="1">
+        <mxCell id="m-UORvbdAmYCQhqXQ-1n-12" value="70 , 80 , 90 , 100 , 50" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=16;" vertex="1" parent="1">
           <mxGeometry x="349.5" y="310" width="174.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DgPr3L2AlJcF3MdMatbq-1" value="YES" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="349.5" y="130" width="350.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DgPr3L2AlJcF3MdMatbq-2" value="+ 1&amp;nbsp; ( No Retro Dhosh )" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="180" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DgPr3L2AlJcF3MdMatbq-3" value="- 1&amp;nbsp; ( Retro Dhosh )" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="911" y="180" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DgPr3L2AlJcF3MdMatbq-6" value="0" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=16;" vertex="1" parent="1">
+          <mxGeometry x="720" y="220" width="174.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DgPr3L2AlJcF3MdMatbq-7" value="0" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=16;" vertex="1" parent="1">
+          <mxGeometry x="901.75" y="220" width="174.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DgPr3L2AlJcF3MdMatbq-8" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=16;" vertex="1" parent="1">
+          <mxGeometry x="720" y="265" width="174.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DgPr3L2AlJcF3MdMatbq-9" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=16;" vertex="1" parent="1">
+          <mxGeometry x="901.75" y="265" width="174.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DgPr3L2AlJcF3MdMatbq-11" value="NO" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="130" width="350.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4oeka6uRGefvJyJkL96O-1" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=16;" vertex="1" parent="1">
+          <mxGeometry x="901.75" y="310" width="174.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S-mOB_JPtSDIovv8mOUP-1" value="Number Game" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="490" y="48" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IL-x4uhhEX-oM1g2Juo6-1" value="Need To Think Specific and Write" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="330" y="458" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
