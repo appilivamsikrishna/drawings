@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-18T19:24:48.287Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="jrgN2ijiJnKZoJpMABsy" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-18T19:31:08.491Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="rYuK4BhoAv8T0SsaBEak" version="24.7.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="954" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -336,8 +336,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="94dIZ5HQVLKkKVLcG0mk-109" value="Final Result of Graha &quot;X&quot;" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="48" y="810" width="191" height="70" as="geometry" />
+        <mxCell id="94dIZ5HQVLKkKVLcG0mk-109" value="Final Result of Graha &quot;X&quot;&amp;nbsp;&lt;br&gt;&lt;div&gt;&lt;br&gt;+1&amp;nbsp; &amp;nbsp; or&amp;nbsp; &amp;nbsp; &amp;nbsp;-1&lt;/div&gt;" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="48" y="810" width="191" height="90" as="geometry" />
         </mxCell>
         <mxCell id="94dIZ5HQVLKkKVLcG0mk-110" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="94dIZ5HQVLKkKVLcG0mk-102" target="94dIZ5HQVLKkKVLcG0mk-117" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
